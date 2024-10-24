@@ -1,7 +1,7 @@
 # Sales and Supply Chain Performance Optimization
 Analysis of retail sales, transfers, and warehouse operations to optimize supply chain performance, track sales trends, and improve stock and supplier management. 
 
-### Data Features:
+### DATA FEATURES
 Month: Indicates the time frame for the sales, transfers, and warehouse operations
 
 Supplier: Name of the supplier providing the items
