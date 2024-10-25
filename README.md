@@ -37,5 +37,7 @@ To boost retail sales, we should consider improving the in-store experience, del
 
 ### DASHBOARD 
 https://app.powerbi.com/view?r=eyJrIjoiNDlmNWZmMmMtMGZiMC00YTRhLWJiZWUtMmI3YzM4OTFlYTc1IiwidCI6IjA1ZDIwYWFmLTJkODItNDA0NS05ZTljLWVkMmYyMjVhYWZkYyJ9
+
+![Dashboard](https://github.com/user-attachments/assets/2b30d099-13e4-4b42-8bf6-f50ae458ac0a)
   
 
