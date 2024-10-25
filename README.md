@@ -31,9 +31,9 @@ Warehouse Sales: Sales made directly from the warehouse
 
 ### RECOMMENDATIONS
 - I propose we focus on suppliers offering popular and high-performing brands and lay off suppliers providing underperforming or non-selling brands.
-- We should focus on the best-selling brands within each product, reducing inventory clutter and improving sales efficiency.
+- We should focus on the best-selling brands within each product.
 - All warehouses should always be well stocked with high-demand items.
-To boost retail sales, we should consider improving the in-store experience, delivery time, and customer satisfaction at each retail store.
+- To boost retail sales, we should consider improving the in-store experience, delivery time, and customer satisfaction at each retail store.
 
 ### DASHBOARD 
 https://app.powerbi.com/view?r=eyJrIjoiNDlmNWZmMmMtMGZiMC00YTRhLWJiZWUtMmI3YzM4OTFlYTc1IiwidCI6IjA1ZDIwYWFmLTJkODItNDA0NS05ZTljLWVkMmYyMjVhYWZkYyJ9
